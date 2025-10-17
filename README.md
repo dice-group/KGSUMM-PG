@@ -5,9 +5,10 @@ Communication platform and tools that can be used in this PG:
 
 1. Elements messaging
    Real-time chat for day-to-day coordination and quick questions. We can ask for the invitation to join the group chat.
+   
    → [Join the Elements group](https://element.cs.uni-paderborn.de/)
 
-2. Kanban board
+3. Kanban board
 Task tracking and progress visualization. We break work into clear stages to keep priorities and status transparent.
 
 → Open the Kanban board
