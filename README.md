@@ -1,6 +1,8 @@
 Welcome to the KG Summarization Project Group (KGSUMM PG)
 
-## KGSUMM-PG Meeting Note Summary
+## KGSUMM-PG Meeting Notes Summary
+
+## Existing Models References
 
 ## Communication platform and tools
 Communication platform and tools that can be used in this PG:
