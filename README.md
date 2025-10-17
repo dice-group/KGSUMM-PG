@@ -1,11 +1,11 @@
 Welcome to the KG Summarization Project Group (KGSUMM PG)
 
+## Communication platform and tools
 Communication platform and tools that can be used in this PG:
 
 1. Elements messaging
-Real-time chat for day-to-day coordination and quick questions.
-
-→ Join the Elements group
+   Real-time chat for day-to-day coordination and quick questions. We can ask for the invitation to join the group chat.
+   → [Join the Elements group](https://element.cs.uni-paderborn.de/)
 
 2. Kanban board
 Task tracking and progress visualization. We break work into clear stages to keep priorities and status transparent.
