@@ -21,6 +21,6 @@ Communication platform and tools that can be used in this PG:
 4. Weekly report form
   Submit your report at the start of each week. Share progress, blockers, and planned next steps so we can prepare for the meeting.
 
-  Please complete the form before the weekly meeting.
+   Please complete the form before the weekly meeting.
 
-  → Fill out the weekly report form
+   → Fill out the weekly report form
