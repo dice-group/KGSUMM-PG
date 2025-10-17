@@ -1,5 +1,7 @@
 Welcome to the KG Summarization Project Group (KGSUMM PG)
 
+## KGSUMM-PG Meeting Note Summary
+
 ## Communication platform and tools
 Communication platform and tools that can be used in this PG:
 
